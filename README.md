@@ -6,5 +6,4 @@ To analyse different environmental conditions which are affecting the count of u
 To consider all the factors and come out with best features, which are related most with the users of bicycle sharing.
 To give a clear view of the analysis to BSA Cycles, so that it can help the company to improve their bicycle sharing business.
 To help BSA cycles with a prediction model based on the factors given for the upcoming year.
-HYPOTHESIS:
-Various hypothesis were taken into consideration while analysing each of the data features.
+
